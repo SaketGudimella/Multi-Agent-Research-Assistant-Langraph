@@ -7,7 +7,7 @@ A collaborative **Agent-to-Agent (A2A)** system built using **LangChain** and **
 
 ##  Project Structure
 
-```
+``` 
 multi_agent_researcher/
 ├── assets/
 │   └── (graph visualizations saved here)
