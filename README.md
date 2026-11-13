@@ -2,7 +2,7 @@
 
 A collaborative **Agent-to-Agent (A2A)** system built using **LangChain** and **LangGraph**, designed to generate detailed and well-structured research reports through intelligent agent cooperation.  
 
-![LangGraph Architecture](assets/research_graph.png)  
+![LangGraph Architecture](assets/research_graph.png)   
 *System architecture built with LangGraph illustrating multi-agent collaboration.*
 
 ##  Project Structure
